@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Demo Web Page</title>
+</head>
+
+<body>
+	<center>My first html file</center>
+    <p>Example<center><font face="Times New Roman"></font><hr>Hello guys, this is my first <b><a href="www.html.com"> HTML </a></b> file.<br><hr> I am happy about it. It was <i>as I had thought.</i> <br><hr>Anyways, lets hope for the best.<hr></font></center></p>
+	<li>1st option</li><li>2nd option</li><li>3rd option</li>
+	<img src="sign_photo.jpeg" width="40"
+	height="40" border="0">
+	<marquee bgcolor="#cccccc" loop="-1"
+	scrollamount="2" width="100%">
+	Example Marquee</marquee>
+	<table border="1" align="center" cellpadding="2" cellspacing="0" width="50%">
+		<thead>
+			<th>column 1</th>
+			<th>column 2</th>
+		</thead>
+		<tr>
+			<td>column 1</td>
+			<td>column 2</td>
+			<td>column 2</td>
+		</tr>
+		<tr>
+			<td>column 1</td>
+		</tr>
+		</table>
+		
+
+</body>
+</html>
